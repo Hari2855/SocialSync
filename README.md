@@ -80,4 +80,4 @@ To learn more about React Native, take a look at the following resources:
 
 # Download apk file
 
-- If you want to download apk file it is in build folder [SocialSync\build\SosialSync.apk>]
+- If you want to download apk file it is in build folder [SocialSync\ApkFile\SosialSync.apk>]
