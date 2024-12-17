@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957952848635",
+    "project_id": "socialsync-f0bc9",
+    "storage_bucket": "socialsync-f0bc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957952848635:android:ca515fa8db0f3518b5365e",
+        "android_client_info": {
+          "package_name": "com.socialsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957952848635-ajetlm46ujki3vkc4fqgto0snb9i0op3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialsync",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "957952848635-k16tu7h145n98856c4njov1oc7au4ba4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqYZ8B2g1-7Wv8gK-z-MQGGlGeHQ-6w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957952848635-k16tu7h145n98856c4njov1oc7au4ba4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

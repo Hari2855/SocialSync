@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialSync</string>
+    <string name="facebook_app_id">457784753757726</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">d7f00490fa0f9a10684bcf338a6674b2</string>
+
+
+</resources>
